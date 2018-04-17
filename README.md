@@ -18,6 +18,16 @@ We've compiled a list of _courses_ and _resources_ on **Data Science and Machine
 
 This repository is dedicated for collaborating & publishing data science projects.
 
+### 7 Steps of Machine Learning
+
+1. Gathering Data 
+2. Preparing that Data 
+3. Choosing a Model 
+4. Training 
+5. Evaluation 
+6. Hyperparameter Tuning 
+7. Prediction
+
 ### Learning Paths
 
 + [Data Science using Python](https://github.com/InfyMLMeetup/DSprojects/blob/master/Learning%20Paths/Learning%20Path%20-%20Data%20Science%20using%20Python.md)
