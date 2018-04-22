@@ -33,6 +33,6 @@ This repository is dedicated for collaborating & publishing data science project
 + [Data Science using Python](https://github.com/InfyMLMeetup/DSprojects/blob/master/Learning%20Paths/Learning%20Path%20-%20Data%20Science%20using%20Python.md)
 + [Data Science using R](https://github.com/InfyMLMeetup/DSprojects/blob/master/Learning%20Paths/Learning%20Path%20-%20Data%20Science%20using%20R.md)
 + [Statistics and Data Science](https://github.com/InfyMLMeetup/DSprojects/blob/master/Learning%20Paths/Learning%20Path%20-%20Statistics%20and%20Data%20Science.md)
-
++ [ML Algorithms](https://github.com/InfyMLMeetup/DSprojects/blob/master/Learning%20Paths/Learning%20Path%20-%20ML%20Algorithms.md)
 
 
