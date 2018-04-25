@@ -1,6 +1,6 @@
 GROUP,COURSE,COURSE OBJECTIVE 
 Prerequisite Concepts,Introduction to Data Science ,Understand the Data Science Landscape 
-, [Introduction to R](https://link.com) ,Learn to program In R
+,Introduction to R,Learn to program In R
 ,Introduction to Python ,Learn to program In Python
 ,Probability & Statistics ,Revisit the basic concept of Probability and Statistics 
 ,Introduction to Linear Algebra ,Revisit concepts of Linear Algebra 
