@@ -2,7 +2,7 @@
 
 This is a perfect competition for persons who have a beginner’s level understanding of various concepts of machine learning and data science, and are looking to polish their understanding and check how they stand against a larger community.
 
-![](https://www.machinehack.com/wp-content/uploads/2018/05/beer-cap-mac-119421-2560x1600.jpg)
+![](https://www.machinehack.com/wp-content/uploads/2018/05/beer-cap-mac-119421-256x160.jpg)
 
 Data scientists take their beer very seriously. Recommendations from friends? No thank you. Websites? Too many pop-ups. Ads? Yeah, as if. They can trust only true solid numbers. Here’s a fun fact: Last year, Indians drank a total of 4.7 million litres of beer and the number is expected to go up to 6.5 billion litres by 2022.
 
